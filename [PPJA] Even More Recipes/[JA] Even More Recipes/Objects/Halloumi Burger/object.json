@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Halloumi Burger",
     "Description": "The Cypriotic classic fits perfect in a bun!",
     "Category": "Cooking",
@@ -36,7 +36,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Hamburgesa Halloumi",
         "ko": "할루미 버거",
         "de": "Halloumi Burger",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "El queso clasico Chipriota encaja perfecto en una hamburgesa!",
         "ko": "사이프러스식 버거!",
         "de": "Der zypriotische Käseklassiker passt perfekt zwischen zwei Burgerbrötchen!",
          // "fr": "",
